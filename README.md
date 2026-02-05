@@ -145,7 +145,3 @@ The following checks have been performed to ensure production readiness before s
 ---
 
 *Submitted as part of the Internship Program Evaluation.*
-
-```
-
-```
