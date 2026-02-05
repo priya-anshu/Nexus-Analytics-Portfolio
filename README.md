@@ -136,7 +136,7 @@ The following checks have been performed to ensure production readiness before s
 
 ## 👤 Author
 
-**Priya Anshu**
+**Priyanshu Dhyani**
 *Data Analyst Intern | MCA Professional*
 
 * **Project Duration:** 1 Week (Internship Month 2)
