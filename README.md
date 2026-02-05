@@ -1,10 +1,3 @@
-Here is the **Final, Updated `README.md**` file.
-
-I have updated the **Architecture** section to include the new modules (`report_generator.py`, `extended_projects.py`) and updated the **Features** to explicitly mention the "5-Domain Analysis" and "PDF Report Generation" so your evaluator sees you met every single requirement.
-
-### **File: `Nexus-Analytics-Portfolio/README.md**`
-
-```markdown
 # Nexus Enterprise Analytics Portfolio 🚀
 
 **Internship Project (Month 2) | Multi-Domain Data Analysis & Automated Reporting**
